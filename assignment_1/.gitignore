@@ -1,9 +1,7 @@
 # Large Data Files
 
 env/
-docs/profiling/
-data/
-code/data/
+
 
 
 # Byte-compiled / optimized / DLL files
