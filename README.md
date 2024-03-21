@@ -28,3 +28,17 @@ This repository contains the dataset, codes and other files related to CISC 839 
 - Run ```pip install -r requirements.txt```
 - Go >> code>> a2.ipynb
 - Open that in jupyter notebook
+
+## Assignment 3 
+
+### Folder Structure
+- code
+- report 
+- dataset
+
+
+### How to run assignment 3
+- Go inside the assignmnet 3 directory.
+- Run ```pip install -r requirements.txt```
+- Go >> code>> A3.ipynb
+- Open that in jupyter notebook
