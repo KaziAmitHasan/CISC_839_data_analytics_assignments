@@ -1,6 +1,10 @@
 # CISC 839 Topics in Data Analytics [assignments]
 This repository contains the dataset, codes and other files related to CISC 839 assignments
 
+#### Team members
+- Kazi Amit Hasan
+- Anirban Dey
+- Tahosina Monir
 
 ## Assignment 1
 
