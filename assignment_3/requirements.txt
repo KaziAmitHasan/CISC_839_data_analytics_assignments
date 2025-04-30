@@ -146,7 +146,7 @@ pydantic==2.1.1
 pydantic_core==2.4.0
 pyelftools==0.29
 PyGithub==1.56
-Pygments==2.13.0
+Pygments==2.15.0
 pyinstaller==5.13.2
 pyinstaller-hooks-contrib==2023.8
 PyJWT==2.6.0
