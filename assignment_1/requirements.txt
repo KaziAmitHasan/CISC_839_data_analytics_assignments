@@ -41,7 +41,7 @@ fuzzywuzzy==0.18.0
 geographiclib==2.0
 geopandas==0.14.3
 geopy==2.4.1
-h11==0.14.0
+h11==0.16.0
 htmlmin==0.1.12
 httpcore==1.0.1
 httpx==0.25.1
